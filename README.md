@@ -1,4 +1,11 @@
-# developer-assignment - Output
+# developer-assignment - 
+To run the source code install node js if not installed.
+run command 
+node index.js
+
+
+
+Output
 
 ------------- Total Sales --------------- 4583270
 ------------- Total sales by Month --------------
